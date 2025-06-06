@@ -74,3 +74,21 @@ Desarrollado por **k3nchy**
 ## 🛡️ Licencia
 
 Uso educativo, investigativo y legal. Se prohíbe su uso para actividades ilícitas. El autor no se hace responsable del mal uso de esta herramienta.
+
+---
+
+## 📸 Capturas de pantalla
+
+### 🟢 Interfaz de inicio
+<img src="screenshot_inicio.png" alt="Pantalla de carga" width="600"/>
+
+---
+
+### 📋 Tabla de llamadas cargadas
+<img src="screenshot_historial.png" alt="Historial de llamadas" width="800"/>
+
+---
+
+### 🧠 Visualización del grafo de llamadas
+<img src="screenshot_grafo.png" alt="Grafo de llamadas" width="800"/>
+
