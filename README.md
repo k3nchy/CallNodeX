@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="logo.png" alt="CallNodeX logo" width="300">
+  <img src="callnodex.png" alt="CallNodeX logo" width="300">
 </p>
+
 
 <h1 align="center">📞 CallNodeX</h1>
 <h3 align="center">Análisis visual de llamadas telefónicas</h3>
